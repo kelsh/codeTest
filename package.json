@@ -1,0 +1,16 @@
+{
+  "name": "affirm_test",
+  "version": "1.0.0",
+  "description": "code test for affirm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "small": "fileSet=small node app.js",
+    "large": "fileSet=large node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.15.3"
+  }
+}
